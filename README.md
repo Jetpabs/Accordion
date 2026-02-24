@@ -1,7 +1,7 @@
 # Accordion
 A simple FAQ accordion component to practice HTML, CSS, &amp; JavaScript
 
-**Link to the webpage:**
+**Link to the webpage:** https://jetpabs.github.io/Accordion/
 
 ## How It's Made
 **Tech used:** HTML, CSS, JavaScript, Heroku
